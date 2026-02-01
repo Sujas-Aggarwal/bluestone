@@ -8,8 +8,8 @@ Updated Version at - bluestone.sujas.me
 
 ----
 TODO:
-- Congratulation Page
-- OTP Validation
-- OTP Input Field Modification
-- Buy Gold by Weight & Price Distinction
-- Buy Gold Screen Background SVG Addition.
+- [DONE] Congratulation Page
+- [DONE] OTP Validation
+- [DONE] OTP Input Field Modification
+- [DONE] Buy Gold by Weight & Price Distinction
+- [DONE] Buy Gold Screen Background SVG Addition.
